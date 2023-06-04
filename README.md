@@ -4,7 +4,7 @@ Welcome to the Data Visualization Projects repository! This repository serves as
 
 ## Table of Contents
 
-- [Project 1: Title]()
+- [Happiness Around The World](https://bryan-cheng-hengze.github.io/data-viz-project-2/)
 - [Suicide Rates with Tableau](https://bryan-cheng-hengze.github.io/data-viz-project-1/)
 - 
 
