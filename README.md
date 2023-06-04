@@ -4,11 +4,9 @@ Welcome to the Data Visualization Projects repository! This repository serves as
 
 ## Table of Contents
 
-- [Project 1: Title](./project1/README.md)
-- [Project 2: Title](./project2/README.md)
-- [Project 3: Title](./project3/README.md)
-- [Project 4: Title](./project4/README.md)
-- [Project 5: Title](./project5/README.md)
+- [Project 1: Title]()
+- [Suicide Rates with Tableau](https://bryan-cheng-hengze.github.io/data-viz-project-1/)
+- 
 
 ## Description
 
